@@ -22,4 +22,4 @@ As seen in the printed output statements for results, there is about a 15% diffe
 ### Take it one step further
 Further bias can be accumulated through verified purchasers, so an additional analysis removing non-verified purchasers to only show ```filter.df(["verified_purchase"] == "Y")```  and running the full summaries for total_reviews, 5-star_reviews, and percentage of 5 star reviews could provide a more accurate idea of product reviews.
 
-* This dataset is for Pet Products only and does not represent total reveiws across products
+_Note: This dataset is for Pet Products only and does not represent total reveiws across products_
